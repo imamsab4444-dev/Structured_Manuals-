@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="safety">
+    <title>Safety warnings</title>
+    <shortdesc>Reusable safety notes.</shortdesc>
+    <conbody>
+        <note type="warning" id="warning1">Do not proceed if pressure guage shows above 0 psi.</note>
+        <note type="warning" id="warning2">Always wear PPE during procedure.</note>
+        <note type="warning" id="warning3">Never bypass the LOTO protocol.</note>
+    </conbody>
+</concept>

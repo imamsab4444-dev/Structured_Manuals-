@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="intro">
+    <title>Hydraulic System Shutdown Procedure-Drill Rig T45</title>
+    <prolog>
+        <author>Imamsab Nadaf</author>
+        <critdates><created date="2025-07-25"/></critdates>
+    <metadata>
+        <othermeta name="Document title" content="Hydraulic System Shutdown Procedure"/>
+        <othermeta name="Document type" content="Standard operating procedure"/>
+        <othermeta name="Version" content="1.1"/>
+        <othermeta name="Language" content="English"/>
+    </metadata>
+    </prolog>
+    <conbody>
+        <section>
+        <title>Purpose:</title>
+        <p>Purpose: This document provides standardized procedure for safely shutting down the
+            hydraulic system on Epiroc Drill Rig T45 to aviod damge and enusre operater safety.</p>
+        </section>
+        <section>
+        <title>Scope:</title>
+        <p>Applicable to all field operators and maintenace technicians working on  Epiroc Drill Rig T45 
+           at any Epiroc approved site.</p>
+        </section>
+    </conbody>
+</concept>
