@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Hydraulic System Shutdown Procedure-Drill Rig T45</title>
+    <topicref href="intro.dita"></topicref>
+    <topicref href="prereq.dita"/>
+    <topicref href="tast.dita"/>
+    <topicref href="safety.dita"></topicref>
+    <topicref href="troubleshoot.dita"></topicref>
+    <topicref href="rev.dita"></topicref>
+</map>

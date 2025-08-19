@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="rev">
+    <title>Revision history:</title>
+    <refbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_xsf_dkn_cgc">
+            <tgroup cols="4" align="left">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <colspec colname="newCol4" colnum="4" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry><b>Version</b></entry>
+                        <entry><b>Date</b></entry>
+                        <entry><b>Description</b></entry>
+                        <entry><b>Author</b></entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry align="center">1.0</entry>
+                        <entry align="center">20-Jul-2025</entry>
+                        <entry align="center">Initial Draft</entry>
+                        <entry align="center">I D Nadaf</entry>
+                    </row>
+                    <row>
+                        <entry align="center">1.1</entry>
+                        <entry align="center">25-Jul-2025</entry>
+                        <entry align="center">Added trouble shooting section</entry>
+                        <entry align="center">I D Nadaf</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

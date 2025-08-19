@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_yvc_zfn_cgc">
+    <title>Procedure steps:</title>
+    <shortdesc>This task describes the correct method for shutting down hydraulic system</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd><b>Step 1: Prepration</b></cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Park the rig on a level surface.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Stop the engine and engage parking brake.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd><b>Step 2: Lockout</b></cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Turn the hydraulic isolation switch to the OFF position.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Attach lockout device.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Place a visible tag with operators name and date.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd><b>Step 3: Depressurize system</b></cmd>
+                <substeps>
+                    <substep>
+                        <note conref="safety.dita#safety/warning1"></note>
+                        <cmd>Use pressurize guage to confirm zero psi in lines.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Slowly release any residual pressure using manual bleed value.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd><b>Step 4: Confirmation</b></cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Attempt to engage a hydraulic control.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>If system is inactive, lockout is sucssesful.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>
