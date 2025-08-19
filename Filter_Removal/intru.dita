@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="intru">
+    <title>Filter removal Procedure-Engine Maintenace</title>
+    <prolog>
+        <author>Imamsab nadaf</author>
+        <critdates><created date="20-june-2025"/></critdates>
+        <metadata>
+            <othermeta name="Document title" content="Filter removal Procedure"/>
+            <othermeta name="Document type" content="SOP"/>
+            <othermeta name="Language" content="English"/>
+            <othermeta name="Issue no" content="1.1"/>
+        </metadata>
+    </prolog>
+    <conbody>
+        <section>
+            <title>Purpose:</title>
+            <p>This document provides the procedure for removel engine filter from Epiroc machine to
+                make sure opreator safety</p>
+        </section>
+        <section>
+            <title>Scope:</title>
+            <p>Applicable to all field opretor and maintenace engineer technicians working on Eprioc approved site.</p>
+        </section>
+    </conbody>
+</concept>

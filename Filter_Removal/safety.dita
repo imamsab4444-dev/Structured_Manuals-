@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="safety">
+    <title>Engine filter removal safety</title>
+    <conbody>
+        <note type="warning" id="warning1">Always wear gloves and eye protection. Engine componentes may be hot.</note>
+    </conbody>
+</concept>
